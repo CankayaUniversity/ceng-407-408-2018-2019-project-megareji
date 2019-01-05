@@ -1,4 +1,4 @@
-package com.example.berkcan.megareji;
+package com.example.arzuk.megareji;
 
 import android.graphics.Bitmap;
 import android.net.Uri;
