@@ -1,4 +1,4 @@
-package com.example.berkcan.megareji;
+package com.example.arzuk.megareji;
 
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
